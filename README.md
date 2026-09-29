@@ -145,7 +145,7 @@ The ROS 2 nodes communicate using the `/arduino_sensor` and `/arduino_command` t
 
 ## 9. Author
 
-Student: [Your Name]
+Student: Artem, Galym, Azizkhan, Yerkinbek.
 
 Course: Actuators, Sensors and Signals
 
